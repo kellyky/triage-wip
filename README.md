@@ -19,3 +19,12 @@ Whether enum is [].map, [].filter, [].select:
 
 Link to issue: https://github.com/rubocop/rubocop/issues/6963
 Rubocop documentation on Lint/Void - https://www.rubydoc.info/gems/rubocop/RuboCop/Cop/Lint/Void
+
+## Docs
+https://ruby-doc.org/core-3.1.0/Enumerator.html#method-i-each
+
+https://ruby-doc.org/core-3.1.0/Enumerator.html#method-i-each
+
+https://ruby-doc.org/core-3.1.0/Array.html#method-i-each
+
+https://ruby-doc.org/core-3.1.0/Struct.html
