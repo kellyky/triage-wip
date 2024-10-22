@@ -2,7 +2,7 @@ Collaboratively triaging:
 https://github.com/rubocop/rubocop/issues/6963
 
 
-#############   NOTES ############
+## Notes
 Observations:
   - Behavior in issue, as reported, was reproduced
 
